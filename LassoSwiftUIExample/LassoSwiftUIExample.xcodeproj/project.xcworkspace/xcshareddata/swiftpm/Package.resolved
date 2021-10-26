@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Lasso",
+        "repositoryURL": "https://github.com/ww-tech/lasso.git",
+        "state": {
+          "branch": "steven/swiftui-project",
+          "revision": "86813e7ca47ab4c35c4f7e469f909ede9c5c93ab",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

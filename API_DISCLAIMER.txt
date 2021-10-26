@@ -1,0 +1,9 @@
+
+API Disclaimer
+
+In this example, we will be hard coding an API key into the application’s source code. 
+This is not something that is recommended for production systems and is being done only 
+for simplicity within this example. In a production scenario, this call would be proxied 
+through your own API/microservice in order to protect the API key from being visible to 
+anyone using the client-side application.
+
