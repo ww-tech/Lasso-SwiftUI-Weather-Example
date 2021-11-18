@@ -2,7 +2,7 @@
 
 ![Hero](img/Part-2/hero.jpg "Hero")
 
-In Part 1 of this tutorial, we set up the API and the Lasso building blocks for our SwiftUI app. If you didn't read the first article in this series, be sure to check it out [here](Part-2-Adding-Views.md).
+In Part 1 of this tutorial, we set up the API and the Lasso building blocks for our SwiftUI app. If you didn't read the first article in this series, be sure to check it out [here](Part-1-Setup.md).
 
 Now comes the next step: implementing SwiftUI `View`s with Lasso. In this part, we'll implement the Home screen to illustrate key Lasso concepts when using SwiftUI. To see the implementation of the Detail and Map screens, be sure to review the source code.
 
