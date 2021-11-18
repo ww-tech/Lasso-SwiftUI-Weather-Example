@@ -370,7 +370,5 @@ If you're interested in contributing to Lasso, we encourage you to fork the GitH
 
 ## Metadata
 Author: Charles Pisciotta, iOS Engineering Intern<br>
-Created: November 2021<br>
-Last Updated: November 2021
 
 *Special thanks to Steven Grosmark, author of the Lasso framework, for his help on this tutorial project.*

@@ -285,11 +285,8 @@ You'll also notice that we're not using many common property wrappers, such as `
 
 In [Part 2](Part-2-Adding-Views.md) of this tutorial, we’ll learn how to finally add this into our SwiftUI project and implement the SwiftUI `View`s.
 
-
 ## Metadata
 
 Author: Charles Pisciotta, iOS Engineering Intern<br>
-Created: October 2021<br>
-Last Updated: October 2021
 
 *Special thanks to Steven Grosmark, author of the Lasso framework, for his help on this tutorial project.*
