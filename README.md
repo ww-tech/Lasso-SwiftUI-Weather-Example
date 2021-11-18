@@ -18,7 +18,8 @@ Home Screen |  Detail Screen |  Map Screen
 
 ## Tutorial
 
-[Coming Soon] Check out the two-part tutorial on building a SwiftUI app with Lasso.
+- [Part 1: Setup](Documentation/Part-1-Setup.md)
+- [Part 2: Adding the SwiftUI Views](Documentation/Part-2-Adding-Views.md)
 
 ## Requirements
 
