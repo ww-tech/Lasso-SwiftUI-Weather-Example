@@ -1,4 +1,4 @@
-# Lasso+SwiftUI Example Weather App
+# Lasso and SwiftUI: Example Weather App
 
 ## Overview
 
@@ -35,6 +35,7 @@ Home Screen |  Detail Screen |  Map Screen
 5. Congratulations, you're all set!  
 
 ## Contributing
+
 We love contributions!
 
 If you have a feature in mind, and/or have found a bug, the best thing to do is:
@@ -49,6 +50,8 @@ If you have a feature in mind, and/or have found a bug, the best thing to do is:
 # Author
 Charles Pisciotta, iOS Engineering Intern
 
+*Special thanks to Steven Grosmark, author of the Lasso framework, for his help on this tutorial project.*
+
 # License
 This project and [Lasso](https://github.com/ww-tech/lasso) are licensed under the Apache-2.0 Open Source license (See [LICENSE](LICENSE)).
 
@@ -56,7 +59,7 @@ You are free to do with this project as you please. We do welcome attribution, a
 
 # Credit
 
-**Are you interested in joining the WW team?** Check out the [careers page](https://www.weightwatchers.com/us/ww-corporate-careers) to view technology job listings as well as open positions on other teams.
+**Are you interested in joining the WW team?** Check out the [careers page](https://www.weightwatchers.com/us/ww-corporate-careers) at WW.com to view technology job listings as well as open positions on other teams.
 
 OpenWeather&reg; provides the weather data in this app. WW is not affiliated with or sponsored by OpenWeather, nor is WW a sponsor of OpenWeather. OpenWeather is used exclusively for demonstrative purposes.
 
