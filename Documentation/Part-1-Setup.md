@@ -292,10 +292,4 @@ Author: Charles Pisciotta, iOS Engineering Intern<br>
 Created: October 2021<br>
 Last Updated: October 2021
 
-
-## Notes
-
-Are you interested in joining the WW team? Check out the [careers page](https://www.weightwatchers.com/us/ww-corporate-careers) to view technology job listings as well as open positions on other teams.
-
-OpenWeather provides the weather data in this app. WW is not affiliated with or sponsored by OpenWeather, nor is WW a sponsor of OpenWeather. OpenWeather is used exclusively for demonstrative purposes.
-
+*Special thanks to Steven Grosmark, author of the Lasso framework, for his help on this tutorial project.*

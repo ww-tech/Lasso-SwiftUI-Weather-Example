@@ -374,8 +374,3 @@ Created: November 2021<br>
 Last Updated: November 2021
 
 *Special thanks to Steven Grosmark, author of the Lasso framework, for his help on this tutorial project.*
-
-## Notes
-
-Are you interested in joining the WW team? Check out the [careers page](https://www.weightwatchers.com/us/ww-corporate-careers) at WW.com to view technology job listings, as well as open positions on other teams.
-
